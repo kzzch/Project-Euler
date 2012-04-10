@@ -1,5 +1,6 @@
 all:
 	make problem3
+
 problem3: problem3.8
 	8l -o problem3 problem3.8
 
